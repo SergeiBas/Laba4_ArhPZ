@@ -11,10 +11,10 @@
     </parent>
 
     <groupId>com.laba4</groupId>
-    <artifactId>taskmanager</artifactId>
+    <artifactId>hotel-client-service</artifactId>
     <version>1.0.0</version>
-    <name>layered-taskmanager</name>
-    <description>Lab 4 layered architecture task manager</description>
+    <name>layered-hotel-client-service</name>
+    <description>Lab 4 layered architecture for Hotel Client Service REST API</description>
 
     <properties>
         <java.version>17</java.version>
